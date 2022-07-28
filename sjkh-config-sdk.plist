@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>updateAppUrl</key>
+	<string>itms-apps://apps.apple.com/cn/app/%E6%9C%9F%E8%B4%A7%E5%BC%80%E6%88%B7%E4%BA%912019%E7%89%88/id1458059774</string>
+	<key>defaultServerNo</key>
+	<integer>0</integer>
+	<key>description</key>
+	<string>0：5期生产环境    1：5期测试环境(沙河)     2：5期开发环境      3：5期测试环境 </string>
+	<key>servers</key>
+	<array>
+		<dict>
+			<key>indexUrl</key>
+			<string>https://app5bus.cfmmc.com</string>
+			<key>uploadUrl</key>
+			<string>https://app5bus.cfmmc.com/upload</string>
+			<key>videoServerIp</key>
+			<string>anychat.cfmmc.com</string>
+			<key>videoServerPort</key>
+			<string>8906</string>
+			<key>appVersion</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>indexUrl</key>
+			<string>https://appa5busadvance.cfmmc.com</string>
+			<key>uploadUrl</key>
+			<string>https://apptest5.cfmmc.com/upload</string>
+			<key>videoServerIp</key>
+			<string>anychatest.cfmmc.com</string>
+			<key>videoServerPort</key>
+			<string>8906</string>
+			<key>appVersion</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>indexUrl</key>
+			<string>https://appdev5bus.cfmmc.com</string>
+			<key>uploadUrl</key>
+			<string>https://appdev5.cfmmc.com/upload</string>
+			<key>videoServerIp</key>
+			<string>anychatest.cfmmc.com</string>
+			<key>videoServerPort</key>
+			<string>8906</string>
+			<key>appVersion</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>indexUrl</key>
+			<string>https://apptest5bus.cfmmc.com</string>
+			<key>uploadUrl</key>
+			<string>https://apptest5.cfmmc.com/upload</string>
+			<key>videoServerIp</key>
+			<string>anychatest.cfmmc.com</string>
+			<key>videoServerPort</key>
+			<string>8906</string>
+			<key>appVersion</key>
+			<string>5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
